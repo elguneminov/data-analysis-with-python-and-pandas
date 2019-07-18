@@ -14,4 +14,4 @@ Some of the topics covered and learned include:
 - merging
 - visualizing
 
-This project is based on a Udemy[https://www.udemy.com/course/data-analysis-with-pandas/] course (taught by Boris Paskhaver) that I took and all datasets are included as well. 
+This project is based on an excellent Udemy (link to the course: https://www.udemy.com/course/data-analysis-with-pandas/) course (taught by Boris Paskhaver) that I took and all datasets are included as well. 
